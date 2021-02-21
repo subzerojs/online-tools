@@ -6,6 +6,8 @@
 
 * [`RegExr`](http://www.regexr.com/) - Удобный сервис для проверки написания регулярных выражений на js
 * [`Crontab.guru`](https://crontab.guru/) - Сервис для проверки cron 
+* [`Glob Tester`](https://toools.cloud/miscellaneous/glob-tester) - Проверка glob выражений
+* [`Glob tester`](https://globster.xyz/) - Еще один тестер glob
 * [`AST explorer`](https://astexplorer.net/) - Парсит код разных ЯП на токены
 * [`Yaml to JSON`](http://nodeca.github.io/js-yaml/) - Трансляция yaml -> json
 * [`Json to Yaml`](https://www.json2yaml.com/) - Трансляция json -> yaml
@@ -21,4 +23,4 @@
 * [`JavaScript beautifier`](http://jsbeautifier.org/) - Преобразует минифицированый код в человекочитаемый.
 * [`Meta Tags`](https://metatags.io/) - Показывает как будет отображаться сайт в соц сетях и в поисковой выдаче
 * [`Carbon`](https://carbon.now.sh/) - Сервис который сделает из вашего кода красивое изображение. 
-* [`Метроном`](https://www.musicca.com/ru/metronom) - Метроном
+
